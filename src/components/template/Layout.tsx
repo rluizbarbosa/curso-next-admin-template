@@ -1,5 +1,5 @@
 import useAppData from "../../data/hook/useAppData"
-import forcarAutenticacao from "../../functions/ForcarAutenticacao"
+import forcarAutenticacao from "../../functions/forcarAutenticacao"
 //import ForcarAutenticacao from "../auth/ForcarAutenticacao"
 import Cabecalho from "./Cabecalho"
 import Conteudo from "./Conteudo"
